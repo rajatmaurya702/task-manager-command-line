@@ -1,4 +1,4 @@
-This is command line application. Following things can be done through it.
+This is a command line application. Following things can be done through it.
 
 1. Add a task
 
